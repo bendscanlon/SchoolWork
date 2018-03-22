@@ -16,7 +16,7 @@ public class Account {
 	/**
 	 * Constructor initializes primary class variables
 	 * @param accNumber is equal to the inputed value
-	 * @param accHolder is equal to the inputed value
+	 * @param accHolder is equal to the inputed valuerfgdfg
 	 */
 
 	public Account(long accNumber, Customer accHolder) {
